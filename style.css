@@ -14,7 +14,7 @@
   #header{
       width:100%;
       height:100vh;
-      background-image: url(/public/resume/img.jpg);
+      background-image: url(public/resume/img.jpg);
       background-position: center;
       background-size: cover;
   }
